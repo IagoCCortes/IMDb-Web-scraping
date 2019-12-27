@@ -1,0 +1,4 @@
+*.html
+imdbpy.py
+imdbWebScrapperPages.py
+.vscode
